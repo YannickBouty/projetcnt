@@ -68,14 +68,8 @@ Architecture MVC (sans les templates ...)
 Tests unitaires
 Qualité de code avec pylint (respect de la PEP)
 Versionning des sources avec GIT et GITHUB
-AWS IAM et CREDENTIALS
-AWS EC2
-AWS S3
-AWS ROUTE 53
-AWS ELASTIC IP
 
 ------------------------------------------
 	AMELIORATIONS
 ------------------------------------------
-Mettre en oeuvre un API MANAGER
 
