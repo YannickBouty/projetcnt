@@ -3,3 +3,4 @@ controlleur/__pycache__/
 metier/__pycache__/
 *.pyc
 .pytest_cache/
+Dockerfile
