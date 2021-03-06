@@ -6,7 +6,7 @@ Centrale Supelec-MS SIO 2020-YANNICK BOUTY
 1/Installer git
 Exemple sous FreeBSD : sudo pkg install git
 2/Dans une console, placer vous dans votre répertoire de travail et récupérer le projet avec la commande :
-git clone https://github.com/YannickBouty/filrouge.git
+git clone https://github.com/YannickBouty/projetcnt.git
 
 ------------------------------------------
 	INSTALLATION
