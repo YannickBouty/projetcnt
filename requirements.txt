@@ -2,14 +2,11 @@ astroid==2.4.2
 attrs==20.2.0
 bcrypt==3.1.7
 blinker==1.4
-boto3==1.16.56
-botocore==1.13.20
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
 coverage==5.3
 cryptography==2.8
-dbus-python==1.2.16
 distro==1.4.0
 entrypoints==0.3
 fasteners==0.14.1
@@ -43,8 +40,6 @@ Pillow==8.0.1
 pluggy==0.13.1
 protobuf==3.6.1
 py==1.9.0
-pycairo==1.16.2
-pycups==1.9.73
 PyJWT==1.7.1
 pylint==2.6.0
 pymacaroons==0.13.0
