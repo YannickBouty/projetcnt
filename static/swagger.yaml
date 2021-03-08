@@ -13,9 +13,9 @@ info:
 externalDocs:
   description: "Plus d'informations sur Swagger"
   url: "http://swagger.io"
-host: "0.0.0.0:55080"
+host: "ec2-54-146-31-245.compute-1.amazonaws.com"
 schemes:
-- "https"
+- "http"
 securityDefinitions:
   BasicAuthentification:
     type: "basic"
